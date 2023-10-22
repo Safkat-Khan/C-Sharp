@@ -1,0 +1,14 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\bin\Debug\net6.0\ErrorHanding.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\bin\Debug\net6.0\ErrorHanding.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\bin\Debug\net6.0\ErrorHanding.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\bin\Debug\net6.0\ErrorHanding.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\bin\Debug\net6.0\ErrorHanding.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\obj\Debug\net6.0\ErrorHanding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\obj\Debug\net6.0\ErrorHanding.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\obj\Debug\net6.0\ErrorHanding.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\obj\Debug\net6.0\ErrorHanding.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\obj\Debug\net6.0\ErrorHanding.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\obj\Debug\net6.0\refint\ErrorHanding.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\obj\Debug\net6.0\ErrorHanding.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\obj\Debug\net6.0\ErrorHanding.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\ErrorHanding\obj\Debug\net6.0\ref\ErrorHanding.dll

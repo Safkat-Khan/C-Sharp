@@ -1,0 +1,14 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\bin\Debug\net6.0\UsingLoop.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\bin\Debug\net6.0\UsingLoop.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\bin\Debug\net6.0\UsingLoop.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\bin\Debug\net6.0\UsingLoop.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\bin\Debug\net6.0\UsingLoop.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\obj\Debug\net6.0\UsingLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\obj\Debug\net6.0\UsingLoop.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\obj\Debug\net6.0\UsingLoop.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\obj\Debug\net6.0\UsingLoop.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\obj\Debug\net6.0\UsingLoop.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\obj\Debug\net6.0\refint\UsingLoop.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\obj\Debug\net6.0\UsingLoop.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\obj\Debug\net6.0\UsingLoop.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\UsingLoop\obj\Debug\net6.0\ref\UsingLoop.dll

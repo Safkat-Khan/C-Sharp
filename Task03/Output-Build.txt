@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Task03, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Task03 -> G:\Task03\Task03\bin\Debug\net6.0-windows\Task03.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 9:46 AM and took 01.258 seconds ==========

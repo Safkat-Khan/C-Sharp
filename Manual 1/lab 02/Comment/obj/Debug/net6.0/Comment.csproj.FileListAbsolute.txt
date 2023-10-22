@@ -1,0 +1,14 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\bin\Debug\net6.0\Comment.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\bin\Debug\net6.0\Comment.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\bin\Debug\net6.0\Comment.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\bin\Debug\net6.0\Comment.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\bin\Debug\net6.0\Comment.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\obj\Debug\net6.0\Comment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\obj\Debug\net6.0\Comment.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\obj\Debug\net6.0\Comment.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\obj\Debug\net6.0\Comment.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\obj\Debug\net6.0\Comment.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\obj\Debug\net6.0\refint\Comment.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\obj\Debug\net6.0\Comment.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\obj\Debug\net6.0\Comment.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\Comment\obj\Debug\net6.0\ref\Comment.dll

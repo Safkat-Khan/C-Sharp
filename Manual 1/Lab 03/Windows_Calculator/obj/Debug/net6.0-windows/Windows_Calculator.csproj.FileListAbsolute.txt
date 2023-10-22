@@ -1,0 +1,16 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\bin\Debug\net6.0-windows\Windows_Calculator.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\bin\Debug\net6.0-windows\Windows_Calculator.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\bin\Debug\net6.0-windows\Windows_Calculator.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\bin\Debug\net6.0-windows\Windows_Calculator.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\bin\Debug\net6.0-windows\Windows_Calculator.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\obj\Debug\net6.0-windows\Windows_Calculator.Form1.resources
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\obj\Debug\net6.0-windows\Windows_Calculator.csproj.GenerateResource.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\obj\Debug\net6.0-windows\Windows_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\obj\Debug\net6.0-windows\Windows_Calculator.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\obj\Debug\net6.0-windows\Windows_Calculator.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\obj\Debug\net6.0-windows\Windows_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\obj\Debug\net6.0-windows\Windows_Calculator.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\obj\Debug\net6.0-windows\refint\Windows_Calculator.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\obj\Debug\net6.0-windows\Windows_Calculator.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\obj\Debug\net6.0-windows\Windows_Calculator.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Windows_Calculator\obj\Debug\net6.0-windows\ref\Windows_Calculator.dll

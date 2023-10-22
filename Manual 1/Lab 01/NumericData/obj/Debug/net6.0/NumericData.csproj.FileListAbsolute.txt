@@ -1,0 +1,14 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\bin\Debug\net6.0\NumericData.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\bin\Debug\net6.0\NumericData.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\bin\Debug\net6.0\NumericData.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\bin\Debug\net6.0\NumericData.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\bin\Debug\net6.0\NumericData.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\obj\Debug\net6.0\NumericData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\obj\Debug\net6.0\NumericData.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\obj\Debug\net6.0\NumericData.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\obj\Debug\net6.0\NumericData.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\obj\Debug\net6.0\NumericData.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\obj\Debug\net6.0\refint\NumericData.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\obj\Debug\net6.0\NumericData.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\obj\Debug\net6.0\NumericData.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NumericData\obj\Debug\net6.0\ref\NumericData.dll

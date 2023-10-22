@@ -1,0 +1,14 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\bin\Debug\net6.0\NonNumeric.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\bin\Debug\net6.0\NonNumeric.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\bin\Debug\net6.0\NonNumeric.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\bin\Debug\net6.0\NonNumeric.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\bin\Debug\net6.0\NonNumeric.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\obj\Debug\net6.0\NonNumeric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\obj\Debug\net6.0\NonNumeric.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\obj\Debug\net6.0\NonNumeric.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\obj\Debug\net6.0\NonNumeric.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\obj\Debug\net6.0\NonNumeric.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\obj\Debug\net6.0\refint\NonNumeric.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\obj\Debug\net6.0\NonNumeric.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\obj\Debug\net6.0\NonNumeric.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\NonNumeric\obj\Debug\net6.0\ref\NonNumeric.dll

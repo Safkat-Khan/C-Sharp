@@ -1,0 +1,14 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\obj\Debug\net6.0\refint\ConsoleCalculator.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\ConsoleCalculator\obj\Debug\net6.0\ref\ConsoleCalculator.dll

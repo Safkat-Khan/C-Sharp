@@ -1,0 +1,42 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\bin\Debug\net6.0\Lab01.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\bin\Debug\net6.0\Lab01.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\bin\Debug\net6.0\Lab01.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\bin\Debug\net6.0\Lab01.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\bin\Debug\net6.0\Lab01.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\obj\Debug\net6.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\obj\Debug\net6.0\Lab01.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\obj\Debug\net6.0\Lab01.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\obj\Debug\net6.0\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\obj\Debug\net6.0\Lab01.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\obj\Debug\net6.0\refint\Lab01.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\obj\Debug\net6.0\Lab01.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\obj\Debug\net6.0\Lab01.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\obj\Debug\net6.0\ref\Lab01.dll
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\bin\Debug\net6.0\Lab01.exe
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\bin\Debug\net6.0\Lab01.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\bin\Debug\net6.0\Lab01.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\bin\Debug\net6.0\Lab01.dll
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\bin\Debug\net6.0\Lab01.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\obj\Debug\net6.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\obj\Debug\net6.0\Lab01.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\obj\Debug\net6.0\Lab01.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\obj\Debug\net6.0\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\obj\Debug\net6.0\Lab01.dll
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\obj\Debug\net6.0\refint\Lab01.dll
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\obj\Debug\net6.0\Lab01.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\obj\Debug\net6.0\Lab01.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\First Class\Lab01\obj\Debug\net6.0\ref\Lab01.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\obj\Debug\net6.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\obj\Debug\net6.0\Lab01.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\obj\Debug\net6.0\Lab01.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\obj\Debug\net6.0\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\obj\Debug\net6.0\Lab01.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\obj\Debug\net6.0\refint\Lab01.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\obj\Debug\net6.0\Lab01.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\bin\Debug\net6.0\Lab01.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\bin\Debug\net6.0\Lab01.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\bin\Debug\net6.0\Lab01.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\bin\Debug\net6.0\Lab01.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\bin\Debug\net6.0\Lab01.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\obj\Debug\net6.0\Lab01.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Lab01\Hello World\obj\Debug\net6.0\ref\Lab01.dll

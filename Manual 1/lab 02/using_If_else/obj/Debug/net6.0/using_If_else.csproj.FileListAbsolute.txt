@@ -1,0 +1,14 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\bin\Debug\net6.0\using_If_else.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\bin\Debug\net6.0\using_If_else.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\bin\Debug\net6.0\using_If_else.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\bin\Debug\net6.0\using_If_else.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\bin\Debug\net6.0\using_If_else.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\obj\Debug\net6.0\using_If_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\obj\Debug\net6.0\using_If_else.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\obj\Debug\net6.0\using_If_else.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\obj\Debug\net6.0\using_If_else.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\obj\Debug\net6.0\using_If_else.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\obj\Debug\net6.0\refint\using_If_else.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\obj\Debug\net6.0\using_If_else.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\obj\Debug\net6.0\using_If_else.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\lab 02\using_If_else\obj\Debug\net6.0\ref\using_If_else.dll

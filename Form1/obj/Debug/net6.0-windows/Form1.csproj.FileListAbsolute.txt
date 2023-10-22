@@ -1,0 +1,6 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Form1\obj\Debug\net6.0-windows\SimpleForm.Form1.resources
+C:\Users\CCB\OneDrive\Desktop\C#\Form1\obj\Debug\net6.0-windows\Form1.csproj.GenerateResource.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Form1\obj\Debug\net6.0-windows\Form1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Form1\obj\Debug\net6.0-windows\Form1.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Form1\obj\Debug\net6.0-windows\Form1.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Form1\obj\Debug\net6.0-windows\Form1.csproj.CoreCompileInputs.cache
