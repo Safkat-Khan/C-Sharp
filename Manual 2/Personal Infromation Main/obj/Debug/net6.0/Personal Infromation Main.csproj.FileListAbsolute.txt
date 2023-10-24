@@ -1,0 +1,14 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\obj\Debug\net6.0\Personal Infromation Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\obj\Debug\net6.0\Personal Infromation Main.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\obj\Debug\net6.0\Personal Infromation Main.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\obj\Debug\net6.0\Personal Infromation Main.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\bin\Debug\net6.0\Personal Infromation Main.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\bin\Debug\net6.0\Personal Infromation Main.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\bin\Debug\net6.0\Personal Infromation Main.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\bin\Debug\net6.0\Personal Infromation Main.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\bin\Debug\net6.0\Personal Infromation Main.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\obj\Debug\net6.0\Personal Infromation Main.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\obj\Debug\net6.0\refint\Personal Infromation Main.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\obj\Debug\net6.0\Personal Infromation Main.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\obj\Debug\net6.0\Personal Infromation Main.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Personal Infromation Main\obj\Debug\net6.0\ref\Personal Infromation Main.dll

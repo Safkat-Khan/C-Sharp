@@ -1,0 +1,14 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\obj\Debug\net6.0\Statstics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\obj\Debug\net6.0\Statstics.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\obj\Debug\net6.0\Statstics.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\obj\Debug\net6.0\Statstics.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\bin\Debug\net6.0\Statstics.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\bin\Debug\net6.0\Statstics.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\bin\Debug\net6.0\Statstics.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\bin\Debug\net6.0\Statstics.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\bin\Debug\net6.0\Statstics.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\obj\Debug\net6.0\Statstics.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\obj\Debug\net6.0\refint\Statstics.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\obj\Debug\net6.0\Statstics.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\obj\Debug\net6.0\Statstics.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Statstics\obj\Debug\net6.0\ref\Statstics.dll

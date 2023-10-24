@@ -1,0 +1,14 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\obj\Debug\net6.0\Dalmatian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\obj\Debug\net6.0\Dalmatian.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\obj\Debug\net6.0\Dalmatian.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\obj\Debug\net6.0\Dalmatian.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\bin\Debug\net6.0\Dalmatian.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\bin\Debug\net6.0\Dalmatian.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\bin\Debug\net6.0\Dalmatian.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\bin\Debug\net6.0\Dalmatian.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\bin\Debug\net6.0\Dalmatian.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\obj\Debug\net6.0\Dalmatian.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\obj\Debug\net6.0\refint\Dalmatian.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\obj\Debug\net6.0\Dalmatian.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\obj\Debug\net6.0\Dalmatian.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Dalmatian\obj\Debug\net6.0\ref\Dalmatian.dll

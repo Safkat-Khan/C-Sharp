@@ -1,0 +1,14 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\obj\Debug\net6.0\whistle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\obj\Debug\net6.0\whistle.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\obj\Debug\net6.0\whistle.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\obj\Debug\net6.0\whistle.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\bin\Debug\net6.0\whistle.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\bin\Debug\net6.0\whistle.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\bin\Debug\net6.0\whistle.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\bin\Debug\net6.0\whistle.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\bin\Debug\net6.0\whistle.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\obj\Debug\net6.0\whistle.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\obj\Debug\net6.0\refint\whistle.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\obj\Debug\net6.0\whistle.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\obj\Debug\net6.0\whistle.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\whistle\obj\Debug\net6.0\ref\whistle.dll

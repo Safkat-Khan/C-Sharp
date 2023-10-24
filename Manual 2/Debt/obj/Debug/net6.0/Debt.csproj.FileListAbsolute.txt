@@ -1,0 +1,14 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\bin\Debug\net6.0\Debt.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\bin\Debug\net6.0\Debt.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\bin\Debug\net6.0\Debt.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\bin\Debug\net6.0\Debt.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\bin\Debug\net6.0\Debt.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\obj\Debug\net6.0\Debt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\obj\Debug\net6.0\Debt.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\obj\Debug\net6.0\Debt.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\obj\Debug\net6.0\Debt.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\obj\Debug\net6.0\Debt.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\obj\Debug\net6.0\refint\Debt.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\obj\Debug\net6.0\Debt.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\obj\Debug\net6.0\Debt.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Debt\obj\Debug\net6.0\ref\Debt.dll

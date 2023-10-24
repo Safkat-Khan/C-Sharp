@@ -1,0 +1,14 @@
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\bin\Debug\net6.0\Gauge.exe
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\bin\Debug\net6.0\Gauge.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\bin\Debug\net6.0\Gauge.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\bin\Debug\net6.0\Gauge.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\bin\Debug\net6.0\Gauge.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\obj\Debug\net6.0\Gauge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\obj\Debug\net6.0\Gauge.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\obj\Debug\net6.0\Gauge.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\obj\Debug\net6.0\Gauge.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\obj\Debug\net6.0\Gauge.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\obj\Debug\net6.0\refint\Gauge.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\obj\Debug\net6.0\Gauge.pdb
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\obj\Debug\net6.0\Gauge.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 2\Gauge\obj\Debug\net6.0\ref\Gauge.dll
