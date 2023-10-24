@@ -3,7 +3,6 @@ C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Customer_Screen\bin\Debug\net6.
 C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Customer_Screen\bin\Debug\net6.0-windows\Customer_Screen.runtimeconfig.json
 C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Customer_Screen\bin\Debug\net6.0-windows\Customer_Screen.dll
 C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Customer_Screen\bin\Debug\net6.0-windows\Customer_Screen.pdb
-C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Customer_Screen\obj\Debug\net6.0-windows\Customer_Screen.Form1.resources
 C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Customer_Screen\obj\Debug\net6.0-windows\Customer_Screen.csproj.GenerateResource.cache
 C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Customer_Screen\obj\Debug\net6.0-windows\Customer_Screen.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Customer_Screen\obj\Debug\net6.0-windows\Customer_Screen.AssemblyInfoInputs.cache
@@ -14,3 +13,4 @@ C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Customer_Screen\obj\Debug\net6.
 C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Customer_Screen\obj\Debug\net6.0-windows\Customer_Screen.pdb
 C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Customer_Screen\obj\Debug\net6.0-windows\Customer_Screen.genruntimeconfig.cache
 C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Customer_Screen\obj\Debug\net6.0-windows\ref\Customer_Screen.dll
+C:\Users\CCB\OneDrive\Desktop\C#\Manual 1\Lab 03\Customer_Screen\obj\Debug\net6.0-windows\Customer_Screen.frmCustomerPreview.resources

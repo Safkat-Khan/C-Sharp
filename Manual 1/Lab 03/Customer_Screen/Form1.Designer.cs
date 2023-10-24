@@ -1,6 +1,6 @@
 ﻿namespace Customer_Screen
 {
-    partial class Form1
+    partial class frmCustomerPreview
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,55 +29,56 @@
         private void InitializeComponent()
         {
             label1 = new Label();
-            textBox1 = new TextBox();
-            comboBox1 = new ComboBox();
+            lblName = new TextBox();
+            lblCountry = new ComboBox();
             label2 = new Label();
             chkReading = new CheckBox();
             radioMale = new RadioButton();
             radioFemale = new RadioButton();
-            label4 = new Label();
             chkPainting = new CheckBox();
             radioMarried = new RadioButton();
             radioUnmarried = new RadioButton();
             btnPreview = new Button();
-            Gender = new GroupBox();
-            groupBox1 = new GroupBox();
-            Gender.SuspendLayout();
-            groupBox1.SuspendLayout();
+            lblGender = new GroupBox();
+            lblStatus = new GroupBox();
+            lblHobby = new GroupBox();
+            lblGender.SuspendLayout();
+            lblStatus.SuspendLayout();
+            lblHobby.SuspendLayout();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(138, 54);
+            label1.Location = new Point(128, 55);
             label1.Name = "label1";
             label1.Size = new Size(123, 20);
             label1.TabIndex = 0;
             label1.Text = "Customer Name :";
             label1.Click += label1_Click;
             // 
-            // textBox1
+            // lblName
             // 
-            textBox1.Location = new Point(267, 52);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(191, 27);
-            textBox1.TabIndex = 1;
+            lblName.Location = new Point(267, 52);
+            lblName.Name = "lblName";
+            lblName.Size = new Size(191, 27);
+            lblName.TabIndex = 1;
             // 
-            // comboBox1
+            // lblCountry
             // 
-            comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "Bangladesh", "United State", "Japan" });
-            comboBox1.Location = new Point(267, 114);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(191, 28);
-            comboBox1.TabIndex = 2;
-            comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
+            lblCountry.DropDownStyle = ComboBoxStyle.DropDownList;
+            lblCountry.FormattingEnabled = true;
+            lblCountry.Items.AddRange(new object[] { "Bangladesh", "United State", "Japan" });
+            lblCountry.Location = new Point(267, 127);
+            lblCountry.Name = "lblCountry";
+            lblCountry.Size = new Size(191, 28);
+            lblCountry.TabIndex = 2;
+            lblCountry.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(138, 122);
+            label2.Location = new Point(128, 130);
             label2.Name = "label2";
             label2.Size = new Size(60, 20);
             label2.TabIndex = 3;
@@ -87,7 +88,7 @@
             // chkReading
             // 
             chkReading.AutoSize = true;
-            chkReading.Location = new Point(267, 246);
+            chkReading.Location = new Point(139, 0);
             chkReading.Name = "chkReading";
             chkReading.Size = new Size(86, 24);
             chkReading.TabIndex = 4;
@@ -97,7 +98,7 @@
             // radioMale
             // 
             radioMale.AutoSize = true;
-            radioMale.Location = new Point(129, 0);
+            radioMale.Location = new Point(139, 0);
             radioMale.Name = "radioMale";
             radioMale.Size = new Size(63, 24);
             radioMale.TabIndex = 6;
@@ -108,27 +109,19 @@
             // radioFemale
             // 
             radioFemale.AutoSize = true;
-            radioFemale.Location = new Point(242, 0);
+            radioFemale.Location = new Point(273, 0);
             radioFemale.Name = "radioFemale";
             radioFemale.Size = new Size(78, 24);
             radioFemale.TabIndex = 7;
             radioFemale.TabStop = true;
             radioFemale.Text = "Female";
             radioFemale.UseVisualStyleBackColor = true;
-            // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Location = new Point(138, 246);
-            label4.Name = "label4";
-            label4.Size = new Size(65, 20);
-            label4.TabIndex = 8;
-            label4.Text = "Hobbies";
+            radioFemale.CheckedChanged += radioFemale_CheckedChanged;
             // 
             // chkPainting
             // 
             chkPainting.AutoSize = true;
-            chkPainting.Location = new Point(381, 246);
+            chkPainting.Location = new Point(273, 0);
             chkPainting.Name = "chkPainting";
             chkPainting.Size = new Size(84, 24);
             chkPainting.TabIndex = 9;
@@ -138,7 +131,7 @@
             // radioMarried
             // 
             radioMarried.AutoSize = true;
-            radioMarried.Location = new Point(129, 0);
+            radioMarried.Location = new Point(139, 0);
             radioMarried.Name = "radioMarried";
             radioMarried.Size = new Size(82, 24);
             radioMarried.TabIndex = 11;
@@ -149,7 +142,7 @@
             // radioUnmarried
             // 
             radioUnmarried.AutoSize = true;
-            radioUnmarried.Location = new Point(243, 0);
+            radioUnmarried.Location = new Point(273, 0);
             radioUnmarried.Name = "radioUnmarried";
             radioUnmarried.Size = new Size(100, 24);
             radioUnmarried.TabIndex = 12;
@@ -159,57 +152,70 @@
             // 
             // btnPreview
             // 
-            btnPreview.Location = new Point(246, 374);
+            btnPreview.Location = new Point(228, 461);
             btnPreview.Name = "btnPreview";
             btnPreview.Size = new Size(190, 38);
             btnPreview.TabIndex = 13;
             btnPreview.Text = "Preview";
             btnPreview.UseVisualStyleBackColor = true;
+            btnPreview.Click += btnPreview_Click;
             // 
-            // Gender
+            // lblGender
             // 
-            Gender.Controls.Add(radioMale);
-            Gender.Controls.Add(radioFemale);
-            Gender.Location = new Point(138, 176);
-            Gender.Name = "Gender";
-            Gender.Size = new Size(363, 41);
-            Gender.TabIndex = 14;
-            Gender.TabStop = false;
-            Gender.Text = "Gender";
+            lblGender.Controls.Add(radioMale);
+            lblGender.Controls.Add(radioFemale);
+            lblGender.Location = new Point(128, 201);
+            lblGender.Name = "lblGender";
+            lblGender.Size = new Size(373, 41);
+            lblGender.TabIndex = 14;
+            lblGender.TabStop = false;
+            lblGender.Text = "Gender";
             // 
-            // groupBox1
+            // lblStatus
             // 
-            groupBox1.Controls.Add(radioMarried);
-            groupBox1.Controls.Add(radioUnmarried);
-            groupBox1.Location = new Point(138, 304);
-            groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(363, 50);
-            groupBox1.TabIndex = 15;
-            groupBox1.TabStop = false;
-            groupBox1.Text = "Status";
+            lblStatus.Controls.Add(radioMarried);
+            lblStatus.Controls.Add(radioUnmarried);
+            lblStatus.Location = new Point(128, 366);
+            lblStatus.Name = "lblStatus";
+            lblStatus.Size = new Size(373, 50);
+            lblStatus.TabIndex = 15;
+            lblStatus.TabStop = false;
+            lblStatus.Text = "Status";
             // 
-            // Form1
+            // lblHobby
+            // 
+            lblHobby.Controls.Add(chkReading);
+            lblHobby.Controls.Add(chkPainting);
+            lblHobby.Location = new Point(128, 286);
+            lblHobby.Name = "lblHobby";
+            lblHobby.Size = new Size(373, 45);
+            lblHobby.TabIndex = 16;
+            lblHobby.TabStop = false;
+            lblHobby.Text = "Hobbies";
+            lblHobby.Enter += groupBox2_Enter;
+            // 
+            // frmCustomerPreview
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(groupBox1);
-            Controls.Add(Gender);
+            ClientSize = new Size(638, 572);
+            Controls.Add(lblHobby);
+            Controls.Add(lblStatus);
+            Controls.Add(lblGender);
             Controls.Add(btnPreview);
-            Controls.Add(chkPainting);
-            Controls.Add(label4);
-            Controls.Add(chkReading);
             Controls.Add(label2);
-            Controls.Add(comboBox1);
-            Controls.Add(textBox1);
+            Controls.Add(lblCountry);
+            Controls.Add(lblName);
             Controls.Add(label1);
-            Name = "Form1";
+            Name = "frmCustomerPreview";
             Text = "Customer Data Entry Screen";
             Load += Form1_Load;
-            Gender.ResumeLayout(false);
-            Gender.PerformLayout();
-            groupBox1.ResumeLayout(false);
-            groupBox1.PerformLayout();
+            lblGender.ResumeLayout(false);
+            lblGender.PerformLayout();
+            lblStatus.ResumeLayout(false);
+            lblStatus.PerformLayout();
+            lblHobby.ResumeLayout(false);
+            lblHobby.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -217,18 +223,18 @@
         #endregion
 
         private Label label1;
-        private TextBox textBox1;
-        private ComboBox comboBox1;
+        private TextBox lblName;
+        private ComboBox lblCountry;
         private Label label2;
         private CheckBox chkReading;
         private RadioButton radioMale;
         private RadioButton radioFemale;
-        private Label label4;
         private CheckBox chkPainting;
         private RadioButton radioMarried;
         private RadioButton radioUnmarried;
         private Button btnPreview;
-        private GroupBox Gender;
-        private GroupBox groupBox1;
+        private GroupBox lblGender;
+        private GroupBox lblStatus;
+        private GroupBox lblHobby;
     }
 }
